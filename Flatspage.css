@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.homepage-background-image {
+    height: 100vh;
+    background-size: cover;
+}
+
+.homepage-bottom {
+    background-color: #ffffff;
+    height: 40vh;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.homepage-heading {
+    font-family: Bree Serif;
+    font-size: 20px;
+    color: #f19116;
+}
+
+.homepage-paragraph {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #6c6b70;
+}
+
+.homepage-button {
+    font-family: Bree Serif;
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.flat-list-page {
+    background-color: #222222;
+    height: 130vh;
+    padding: 20px;
+}
+
+.flat-list-card1 {
+    height: 30vh;
+    background-color: #ffffff;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.flat-list-image1 {
+    height: 30vh;
+    width: 20vh;
+}
+
+.flat-list-card-heading {
+    font-family: bree Serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0f0e46;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.flat-list-card-paragraph {
+    font-family: bree Serif;
+    font-size: 10px;
+    color: #7b8794;
+    padding-left: 10px;
+}
+
+.flat1-background-image {
+    height: 50vh;
+    background-size: cover;
+}
+
+.flat1-detail-bottom {
+    background-color: #222222;
+    height: 100vh;
+    padding: 20px;
+}
+
+.flat1-detail-heading {
+    font-family: Bree Serif;
+    font-size: 20px;
+    color: #f19116;
+    padding-bottom: 10px;
+}
+
+.flat1-detail-paragraph {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.location-icon {
+    height: 20px;
+    width: 30px;
+    padding-right: 10px;
+}
+
+.flat1-detail-button {
+    font-family: Bree Serif;
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
